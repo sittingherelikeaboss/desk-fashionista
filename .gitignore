@@ -1,7 +1,7 @@
 *.pyc  
 *~  
 __pycache__  
-myvenv  
-db.sqlite3  
-/static  
+hello_django/.venv  
+hello_django/db.sqlite3  
+hello_django/static  
 .DS_Store  
