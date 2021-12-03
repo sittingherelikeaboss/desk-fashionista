@@ -16,7 +16,7 @@ jobs:
           steps:
       - checkout
       - run: echo "this is the build job"
-   test:
+  test:
     docker:
       - image: cimg/<language>:<version TAG>
         auth:
